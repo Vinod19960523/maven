@@ -1,0 +1,2 @@
+Grep:The word grep standrds for globally regular expression print. the grep command allows you to search one file or multiple files for lines that contain pattern
+syntax:grep [options]pattern [files].

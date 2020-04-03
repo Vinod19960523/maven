@@ -1,0 +1,26 @@
+what is  automation 
+automation is proccess by which wwe can complete any task with less human intervention or without human intervention.
+completing a task wit scripting
+here we are covering shell scripting.
+ what is shell scriptng 
+    shell scripting is  a group comands wri\tten in a sequnce to automate
+ your 
+   regular boring stuff
+   Repetative work
+>A shell is a program that provides an interface between a user and an operate  system os kernel
+> An os statrs a shell for each user wwhen the user opens a terminal or Login a system
+mostly 
+
+
+3uname -a 
+#cat /etc/shells
+#which $SHELL
+>note : which shell command will gives the 
+ash shell is the advanced shell
+bash is a sh-compitable shell that incorporate useful features from the korn shell (ksh)and C shell.(csh)
+now a days bash shell is the default shell for most of the unix/like systems.
+#!/bin/bash
+>Bash shell scripting is used to automate tasks
+Example tasks:
+ < inastall and configure httpd on RHEL& Ubuntu
+ <

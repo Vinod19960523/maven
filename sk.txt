@@ -1,0 +1,43 @@
+what is ec2
+server mangement
+instances
+instance type
+volume
+ami --os 
+pblic ip/elasticip/private ip
+instance state
+  start/stop/terminate/reeboot
+securitygroup:firewall
+keypair:just like public and private key
+
+
+bootstraping:when ever we lanuch instrance
+termination protection :acccdiential deltiion of 
+instance upgradation of /downgradreing
+
+
+
+
+
+security group;min is=1 max=5
+we can allow rules only
+we define only allow rules
+security grp having 2grps
+inbond 
+  -- IB-- 
+      CIDR(IP adress)
+       portnumber of instance
+ outbond
+    Dest CIDR(IP Adress)
+     port number of the DEst server
+  I1 (0-65535)--> SG1
+    -->Linux
+    --. Apche2
+    -->Oracle db
+    -->Tomcat
+   Inteliq  ---> (22)--->I1
+    All machines --->80 ---.I1
+34.78.89.90---->1521   --->i1
+=============
+2 tier arch   
+I1  I2   I3
